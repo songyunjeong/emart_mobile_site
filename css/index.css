@@ -120,9 +120,12 @@ img {display: block;}
 
 /*-------- lnb_box lnb --------*/
 .lnb_box {
-  height: 50px;
+  height: 55px;
   background-color: #FFD040;
   overflow: auto;
+}
+.lnb_box::-webkit-scrollbar-thumb {
+  background-color: #e7b620;
 }
 .lnb_box .lnb {
   height: 50px;
@@ -435,12 +438,10 @@ img {display: block;}
 
 
 /*-------- recipe --------*/
-.recipe {
-  margin-bottom: 15px;
-}
 .recipe .txt {
   text-align: center;
   margin-top: 5px;
+  padding-bottom: 10px; box-sizing: border-box;
 }
 
 
