@@ -6,6 +6,17 @@ li {list-style: none;}
 a {color: #333; text-decoration: none;}
 img {display: block;}
 
+::-webkit-scrollbar {
+  display: block;
+  width: 5px; height: 5px;
+  
+}
+::-webkit-scrollbar-thumb {
+  height: 5px;
+  background-color: #eee;
+  border-radius: 2.5px;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 
 
