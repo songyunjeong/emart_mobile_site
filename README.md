@@ -1,6 +1,6 @@
 # E-MART 모바일 사이트 (적응형)
 
-이마트 모바일 디자인을 참고하여 HTML, CSS, JS로 구현했습니다.
+이마트 모바일 디자인을 참고하여 HTML, CSS로 구현했습니다.
 
 📱 [모바일 사이트 보러가기(사이트)](https://songyunjeong.github.io/emart_mobile_site)
 
